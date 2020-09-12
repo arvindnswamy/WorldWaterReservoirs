@@ -36,5 +36,9 @@ CWC has data inthe form of a pdf file. Need to mine that.
 
 Australia, esp. NSW, maybe Melbourne water
 
+South Africa - partial information (capacity but no level). No historical data.
+
+
+
 
 
