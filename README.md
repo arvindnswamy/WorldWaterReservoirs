@@ -2,13 +2,15 @@
 
 ## Description
 
-Collection of codes and data from different water reservoirs around the world. USGS has data for many reservoirs in the US. In India, data are available for reservoirs supplying water to Hyderabad and Chennai. These data are available from the respective city water department websites. URLs are included in the relevant files.
+Collection of codes and data from different water reservoirs around the world. USGS has data for many reservoirs in the US. In India, data are available for reservoirs supplying water to Hyderabad and Chennai as well as for reservoirs in the state of Karnataka. These data are available from the respective city water department websites for Hyderabad and Chennai, and from Karnataka State Natural Disaster Monitoring Center for Karnataka. URLs are included in the relevant files.
 
 **Data from USGS website**: ExtractingVolumeLevelInformationFromUSGSReservoirData.ipynb
 
 **Data from Hyderabad**: AccessingReservoirLevelDataFromHyderabadWaterWorks.ipynb
 
 **Data from Chennai**: ExtractingDataFromChennaiWaterBoardReservoirLevels.ipynb
+
+**Data from Karnataka**: AccessingReservoirLevelsInKarnataka
 
 The data for different reservoirs are stored as csv files.
 
@@ -27,8 +29,6 @@ Maharashtra - perhaps
 Odisha - perhaps
 
 Andhra Pradesh - perhaps
-
-Karnataka - perhaps
 
 CWC has data inthe form of a pdf file. Need to mine that.
 
