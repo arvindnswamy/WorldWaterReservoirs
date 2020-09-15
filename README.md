@@ -10,7 +10,7 @@ Collection of codes and data from different water reservoirs around the world. U
 
 **Data from Chennai**: ExtractingDataFromChennaiWaterBoardReservoirLevels.ipynb
 
-**Data from Karnataka**: AccessingReservoirLevelsInKarnataka
+**Data from Karnataka**: AccessingReservoirLevelsInKarnataka.ipynb
 
 The data for different reservoirs are stored as csv files.
 
